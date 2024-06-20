@@ -5,5 +5,5 @@ redis:6.2.7
 nacos/nacos-server:v2.2.3
 minio/minio:RELEASE.2023-03-24T21-41-23Z
 mssql
-
+influxdb
 #支持私库
