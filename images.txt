@@ -1,3 +1,2 @@
-hello-world
-influxdb
+mysql:latest
 #支持私库
