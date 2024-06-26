@@ -1,3 +1,2 @@
-nacos/nacos-server
-mysql:latest
+openjdk17
 #支持私库
